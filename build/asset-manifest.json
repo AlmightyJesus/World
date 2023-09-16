@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Best/static/css/main.d367a4b1.css",
+    "main.js": "/Best/static/js/main.9f8e7911.js",
+    "static/media/intro correct 1.mp4": "/Best/static/media/intro correct 1.60c87f0fab91cba787ad.mp4",
+    "static/media/loop video.mp4": "/Best/static/media/loop video.8204532334e0899dd5fc.mp4",
+    "static/media/10.webp": "/Best/static/media/10.9d55ebaf49e2a1566285.webp",
+    "static/media/11.webp": "/Best/static/media/11.e32866d809309bfd5ae2.webp",
+    "static/media/14.webp": "/Best/static/media/14.353d062ffd6151d94a06.webp",
+    "static/media/4.webp": "/Best/static/media/4.de6233805d060fa97921.webp",
+    "static/media/2.webp": "/Best/static/media/2.574104ad442c095a5bbe.webp",
+    "static/media/12.webp": "/Best/static/media/12.7f6d60ec7261eb21a07c.webp",
+    "static/media/6.webp": "/Best/static/media/6.4c1d4b9f18cf30ffbb05.webp",
+    "static/media/13.webp": "/Best/static/media/13.c41b47d2fe93d0ce16c4.webp",
+    "static/media/5.webp": "/Best/static/media/5.85cb009545eed102084c.webp",
+    "static/media/3.webp": "/Best/static/media/3.72b96ccc924a0b0d614d.webp",
+    "static/media/7.webp": "/Best/static/media/7.cf43e4b0061d50fd7eb0.webp",
+    "static/media/1.webp": "/Best/static/media/1.378e463bfefafe30c0cb.webp",
+    "static/media/9.webp": "/Best/static/media/9.37a06fbc71748d3b98fd.webp",
+    "static/media/8.webp": "/Best/static/media/8.1823cf7361aca9c5ed08.webp",
+    "static/media/kaushan-script-all-400-normal.woff": "/Best/static/media/kaushan-script-all-400-normal.ba623d1ca520a2a711d2.woff",
+    "static/media/sirin-stencil-all-400-normal.woff": "/Best/static/media/sirin-stencil-all-400-normal.e1b8add18154b5d65682.woff",
+    "static/media/kaushan-script-latin-400-normal.woff2": "/Best/static/media/kaushan-script-latin-400-normal.2855d49bba6b2cb7bec5.woff2",
+    "static/media/sirin-stencil-latin-400-normal.woff2": "/Best/static/media/sirin-stencil-latin-400-normal.f668f96beabdc683277b.woff2",
+    "static/media/kaushan-script-latin-ext-400-normal.woff2": "/Best/static/media/kaushan-script-latin-ext-400-normal.5a05e21384fe4b1b9db7.woff2",
+    "index.html": "/Best/index.html",
+    "static/media/star_white_48dp.svg": "/Best/static/media/star_white_48dp.808b259deb685769240560a11e239a7f.svg",
+    "main.d367a4b1.css.map": "/Best/static/css/main.d367a4b1.css.map",
+    "main.9f8e7911.js.map": "/Best/static/js/main.9f8e7911.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d367a4b1.css",
+    "static/js/main.9f8e7911.js"
+  ]
+}
